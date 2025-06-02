@@ -25,7 +25,7 @@ screen.onkeypress(game_player.move_up, 'Up')
 
 def is_collision(player, cars):
     for ca in cars:
-        if ca.distance(player) < 25:
+        if ca.distance(player) < 20:
             return True
 
 
