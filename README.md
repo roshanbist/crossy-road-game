@@ -22,7 +22,11 @@ A simple Crossy Road-inspired game built with Python's Turtle graphics module.
 ## How to Run
 
 1. clone the repository:
-    git clone git@github.com:roshanbist/crossy-road-game.git
+
+```sh
+   git clone git@github.com:roshanbist/crossy-road-game.git
+```
+
 2. cd crossy-road-game.
 3. Run the main script:
 
