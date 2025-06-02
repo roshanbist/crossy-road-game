@@ -46,7 +46,7 @@ A simple Crossy Road-inspired game built with Python's Turtle graphics module.
 
 ## Screenshots
 
-![Game Screenshot](screenshot/screenshot.PNG)
+![Game Screenshot](screenshot/screenshot.png)
 
 ## License
 
